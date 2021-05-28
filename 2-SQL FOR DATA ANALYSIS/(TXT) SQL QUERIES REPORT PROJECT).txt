@@ -1,0 +1,28 @@
+/* Query 1 - query used for first insight - report page number 3 */
+
+SELECT *
+FROM Album
+JOIN Track on Track.AlbumID = Album.AlbumID
+
+3503
+
+/* Query 2 - query used for second insight - report page number 4 */
+
+SELECT COUNT(AlbumId)
+FROM Album;
+
+347
+
+/* Query 3 - query used for third insight - report page number 5 */
+
+SELECT SUM(AlbumId) AS ArtistId
+FROM Album, Artist;
+
+16603950
+
+/* Query 4 - query used for fourth insight - report page number 6 */
+
+SELECT AVG(ArtistId)
+FROM Artist;
+
+138.0
