@@ -6,3 +6,7 @@ Mastering data fundamentals applicable to any industry by learning to manipulate
 •	SQL for Data Analysis: Learning to use Structured Query Language (SQL) to extracting and analysing data stored in databases.
 
 •	Data Visualisation: Learning to apply design and visualisation principles to create impactful data visualisations, building data dashboards, and telling stories with data.
+
+•	Python Programming.
+
+•	R Programming.
